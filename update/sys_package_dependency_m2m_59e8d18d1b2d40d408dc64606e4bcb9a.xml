@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System (apps/system)" source="apps/system">78cea85037112200b5eed69543990e49</dependency>
+        <min_version/>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-04 09:34:57</sys_created_on>
+        <sys_id>59e8d18d1b2d40d408dc64606e4bcb9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-04 09:34:57</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

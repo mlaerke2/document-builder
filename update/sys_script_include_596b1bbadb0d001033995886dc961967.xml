@@ -391,15 +391,15 @@ DocumentBuilder.prototype = {
 				}else{
 
 					//Use the templates contractType to set a filename
-					fileName = templateGR.getDisplayValue('document_type');// + ' ' +this.userName;
+					fileName = templateGR.getDisplayValue('document_type') + ' ' + this.userName;
 
 					//customer specific naming
 					//If name of Template short description contains "translation", add it to document name
-					/*if (templateGR.getValue('short_description').toLowerCase().indexOf('translation') > 0) {
+					if (templateGR.getValue('short_description').toLowerCase().indexOf('translation') > 0) {
 
 						fileName += ' translation ';
 
-					} */
+					} 
 				}
 
 				this.documentNameDisplay = this._getHeaderVariables(fileName);
@@ -963,9 +963,9 @@ DocumentBuilder.prototype = {
 
 				usersName: this.userName + '',
 
-				pageNumber: '<!--[if supportFields]><span class=MsoPageNumber style="font-size:9.0pt; font-family:'+this.DEFAULT_FONT+'; mso-spacerun:yes"><span style="mso-element:field-begin"></span> PAGE </span><![endif]--><span class="MsoPageNumber">2</span><!--[if supportFields]><span style="mso-element:field-end"></span><![endif]-->',
+				pageNumber: '<!--[if supportFields]><span class=MsoPageNumber style="font-family:'+this.DEFAULT_FONT+'; mso-spacerun:yes"><span style="mso-element:field-begin"></span> PAGE </span><![endif]--><span class="MsoPageNumber">2</span><!--[if supportFields]><span style="mso-element:field-end"></span><![endif]-->',
 
-				pageTotal: "<!--[if supportFields]><span style='font-size:9.0pt; font-family:"+this.DEFAULT_FONT+";margin:0cm;margin-bottom:.0001pt;'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>NUMPAGES<span style='mso-spacerun:yes'> </span>\* Arabic<span style='mso-spacerun:yes'>  </span>\* MERGEFORMAT <span style='mso-element:field-separator'></span></span><![endif]--><span style='font-size:9.0pt; font-family:"+this.DEFAULT_FONT+";margin:0cm;margin-bottom:.0001pt;'><span style='mso-no-proof:yes'>2</span></span><!--[if supportFields]><span style='mso-element:field-end'></span></span><![endif]-->"
+				pageTotal: "<!--[if supportFields]><span style='font-family:"+this.DEFAULT_FONT+";margin:0cm;margin-bottom:.0001pt;'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>NUMPAGES<span style='mso-spacerun:yes'> </span>\* Arabic<span style='mso-spacerun:yes'>  </span>\* MERGEFORMAT <span style='mso-element:field-separator'></span></span><![endif]--><span style='font-family:"+this.DEFAULT_FONT+";margin:0cm;margin-bottom:.0001pt;'><span style='mso-no-proof:yes'>2</span></span><!--[if supportFields]><span style='mso-element:field-end'></span></span><![endif]-->"
 			};
 
 			var regex = /\${([^}]*)}/g;
@@ -1151,7 +1151,7 @@ DocumentBuilder.prototype = {
 					
 					this.userName = this.USER_FIELD;
 					
-				} else {
+				}  else {
 
 					this.userName = '${userName}';
 				}	
@@ -1257,14 +1257,16 @@ DocumentBuilder.prototype = {
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>mla@businessnow.dk</sys_created_by>
         <sys_created_on>2019-11-15 09:07:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>596b1bbadb0d001033995886dc961967</sys_id>
-        <sys_mod_count>209</sys_mod_count>
+        <sys_mod_count>212</sys_mod_count>
         <sys_name>DocumentBuilder</sys_name>
         <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
         <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
         <sys_update_name>sys_script_include_596b1bbadb0d001033995886dc961967</sys_update_name>
-        <sys_updated_by>mla@businessnow.dk</sys_updated_by>
-        <sys_updated_on>2019-12-05 23:23:24</sys_updated_on>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-05 23:25:11</sys_updated_on>
     </sys_script_include>
 </record_update>

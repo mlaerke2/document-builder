@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="type" table="x_buno_doc_template" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contract</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>0</sequence>
+            <sys_created_by>mla@businessnow.dk</sys_created_by>
+            <sys_created_on>2019-11-15 07:53:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ff5b833edbc9001033995886dc96199d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-04 09:50:23</sys_updated_on>
+            <value>contract</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Document</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>1</sequence>
+            <sys_created_by>mla@businessnow.dk</sys_created_by>
+            <sys_created_on>2019-11-15 07:53:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3b5b833edbc9001033995886dc96199b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-04 09:50:32</sys_updated_on>
+            <value>document</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LOA</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>2</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-04 09:49:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>374c51851b6d40d408dc64606e4bcbb7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-04 09:50:28</sys_updated_on>
+            <value>loa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Job Offer</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>3</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-04 09:49:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bb4c51851b6d40d408dc64606e4bcbb8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-04 09:50:38</sys_updated_on>
+            <value>job offer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HQ Addendum</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>4</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-04 09:49:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>334c51851b6d40d408dc64606e4bcbba</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-04 09:51:07</sys_updated_on>
+            <value>hq_addendum</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HQ Resignation and Termination Letter</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>5</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-04 09:49:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b74c51851b6d40d408dc64606e4bcbbb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-04 09:51:47</sys_updated_on>
+            <value>hq_resignation_and_termination_letter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HQ 48E Contract</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>6</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-04 09:49:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3f4c51851b6d40d408dc64606e4bcbbc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-04 09:51:54</sys_updated_on>
+            <value>hq_48e_contract</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HQ Promotion Letter</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>7</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-04 09:49:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b34c51851b6d40d408dc64606e4bcbbe</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-04 09:50:55</sys_updated_on>
+            <value>hq_promotion_letter</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_buno_doc_template</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>mla@businessnow.dk</sys_created_by>
+            <sys_created_on>2019-11-15 07:53:05</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>b2e8558d1b2d40d408dc64606e4bcb63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+            <sys_update_name>sys_choice_x_buno_doc_template_type</sys_update_name>
+            <sys_updated_by>mla@businessnow.dk</sys_updated_by>
+            <sys_updated_on>2019-11-15 07:53:05</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Builder">c0538f36dbc9001033995886dc96195e</application>
+        <file_path/>
+        <instance_id>c92022e06f4ad1c0d54da9cc5d3ee4ef</instance_id>
+        <instance_name>maerskdrillingdev</instance_name>
+        <name>sys_choice_x_buno_doc_template_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="type" table="x_buno_doc_template" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>type</element><hint/><inactive>false</inactive><label>Contract</label><language>en</language><name>x_buno_doc_template</name><sequence>0</sequence><sys_created_by>mla@businessnow.dk</sys_created_by><sys_created_on>2019-11-15 07:53:05</sys_created_on><sys_domain>global</sys_domain><sys_id>ff5b833edbc9001033995886dc96199d</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>MLA291</sys_updated_by><sys_updated_on>2019-12-04 09:50:23</sys_updated_on><value>contract</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>type</element><hint/><inactive>false</inactive><label>Document</label><language>en</language><name>x_buno_doc_template</name><sequence>1</sequence><sys_created_by>mla@businessnow.dk</sys_created_by><sys_created_on>2019-11-15 07:53:05</sys_created_on><sys_domain>global</sys_domain><sys_id>3b5b833edbc9001033995886dc96199b</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>MLA291</sys_updated_by><sys_updated_on>2019-12-04 09:50:32</sys_updated_on><value>document</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>type</element><hint/><inactive>false</inactive><label>LOA</label><language>en</language><name>x_buno_doc_template</name><sequence>2</sequence><sys_created_by>MLA291</sys_created_by><sys_created_on>2019-12-04 09:49:51</sys_created_on><sys_domain>global</sys_domain><sys_id>374c51851b6d40d408dc64606e4bcbb7</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>MLA291</sys_updated_by><sys_updated_on>2019-12-04 09:50:28</sys_updated_on><value>loa</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>type</element><hint/><inactive>false</inactive><label>Job Offer</label><language>en</language><name>x_buno_doc_template</name><sequence>3</sequence><sys_created_by>MLA291</sys_created_by><sys_created_on>2019-12-04 09:49:51</sys_created_on><sys_domain>global</sys_domain><sys_id>bb4c51851b6d40d408dc64606e4bcbb8</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>MLA291</sys_updated_by><sys_updated_on>2019-12-04 09:50:38</sys_updated_on><value>job offer</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>type</element><hint/><inactive>false</inactive><label>HQ Addendum</label><language>en</language><name>x_buno_doc_template</name><sequence>4</sequence><sys_created_by>MLA291</sys_created_by><sys_created_on>2019-12-04 09:49:51</sys_created_on><sys_domain>global</sys_domain><sys_id>334c51851b6d40d408dc64606e4bcbba</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>MLA291</sys_updated_by><sys_updated_on>2019-12-04 09:51:07</sys_updated_on><value>hq_addendum</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>type</element><hint/><inactive>false</inactive><label>HQ Resignation and Termination Letter</label><language>en</language><name>x_buno_doc_template</name><sequence>5</sequence><sys_created_by>MLA291</sys_created_by><sys_created_on>2019-12-04 09:49:51</sys_created_on><sys_domain>global</sys_domain><sys_id>b74c51851b6d40d408dc64606e4bcbbb</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>MLA291</sys_updated_by><sys_updated_on>2019-12-04 09:51:47</sys_updated_on><value>hq_resignation_and_termination_letter</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>type</element><hint/><inactive>false</inactive><label>HQ 48E Contract</label><language>en</language><name>x_buno_doc_template</name><sequence>6</sequence><sys_created_by>MLA291</sys_created_by><sys_created_on>2019-12-04 09:49:51</sys_created_on><sys_domain>global</sys_domain><sys_id>3f4c51851b6d40d408dc64606e4bcbbc</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>MLA291</sys_updated_by><sys_updated_on>2019-12-04 09:51:54</sys_updated_on><value>hq_48e_contract</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>type</element><hint/><inactive>false</inactive><label>HQ Promotion Letter</label><language>en</language><name>x_buno_doc_template</name><sequence>7</sequence><sys_created_by>MLA291</sys_created_by><sys_created_on>2019-12-04 09:49:52</sys_created_on><sys_domain>global</sys_domain><sys_id>b34c51851b6d40d408dc64606e4bcbbe</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>MLA291</sys_updated_by><sys_updated_on>2019-12-04 09:50:55</sys_updated_on><value>hq_promotion_letter</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>type</element><name>x_buno_doc_template</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>mla@businessnow.dk</sys_created_by><sys_created_on>2019-11-15 07:53:05</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>b2e8558d1b2d40d408dc64606e4bcb63</sys_id><sys_mod_count>0</sys_mod_count><sys_name>type</sys_name><sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope><sys_update_name>sys_choice_x_buno_doc_template_type</sys_update_name><sys_updated_by>mla@businessnow.dk</sys_updated_by><sys_updated_on>2019-11-15 07:53:05</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-344304028</payload_hash>
+        <record_name>Template.Contract Type</record_name>
+        <reverted_from/>
+        <source>023955011b6d40d408dc64606e4bcbcb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-04 09:51:55</sys_created_on>
+        <sys_id>3dcc59051b6d40d408dc64606e4bcb11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ed052c2800000001</sys_recorded_at>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-04 09:51:55</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>f1cc5905c56d40d49fab5774c8451511</update_guid>
+        <update_guid_history>f1cc5905c56d40d49fab5774c8451511:-344304028,bfbc9905626d40d4ba0102f3d4de7292:-1016933722,9a9cd185616d40d4de348b6be8577fa4:1845407170,5f8cd185336d40d4481a808d75df7d9f:1289059171,cf7c9585de6d40d4f7227200c0b50988:2096699425,f57cdd45c36d40d45b47a65c7a87d538:-428429215,347c9185bb6d40d42e25072400981c75:47284289,e76c5585be6d40d402bbb20e67ab8d69:1159103521,374c5185e56d40d49d2200e14c2b70c0:-459548607,fb5b833e25c900105afa2dd4a5b3e39f:-1331190281,b75b833e19c9001043aed785ff5d6b9d:156014489</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mla@businessnow.dk</sys_created_by>
+        <sys_created_on>2019-12-05 22:19:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>b2e8558d1b2d40d408dc64606e4bcb63</sys_id>
+        <sys_metadata>b2e8558d1b2d40d408dc64606e4bcb63</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_scope_delete display_value="">25f41efe0f984d6895ad3fb4d47fd1c9</sys_scope_delete>
+        <sys_update_name>sys_choice_x_buno_doc_template_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_buno_doc_template_type">3dcc59051b6d40d408dc64606e4bcb11</sys_update_version>
+        <sys_updated_by>mla@businessnow.dk</sys_updated_by>
+        <sys_updated_on>2019-12-05 22:19:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

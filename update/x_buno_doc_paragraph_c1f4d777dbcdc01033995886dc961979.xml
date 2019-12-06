@@ -21,11 +21,13 @@
         <sys_class_name>x_buno_doc_paragraph</sys_class_name>
         <sys_created_by>mla@businessnow.dk</sys_created_by>
         <sys_created_on>2019-11-18 11:09:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c1f4d777dbcdc01033995886dc961979</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>par - This headline will not be shown 2</sys_name>
         <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
         <sys_update_name>x_buno_doc_paragraph_c1f4d777dbcdc01033995886dc961979</sys_update_name>
         <sys_updated_by>mla@businessnow.dk</sys_updated_by>

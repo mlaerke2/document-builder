@@ -29,8 +29,8 @@
         <action>DELETE</action>
         <application display_value="Document Builder">c0538f36dbc9001033995886dc96195e</application>
         <file_path/>
-        <instance_id>b82d00e1db6f7644ff27d5b0cf96196c</instance_id>
-        <instance_name>businessnowsvsdemo3</instance_name>
+        <instance_id>c92022e06f4ad1c0d54da9cc5d3ee4ef</instance_id>
+        <instance_name>maerskdrillingdev</instance_name>
         <name>x_buno_doc_paragraph_a3085807db01401033995886dc96190c</name>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_buno_doc_paragraph"&gt;&lt;x_buno_doc_paragraph action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;condition/&gt;&lt;custom_html&gt;false&lt;/custom_html&gt;&lt;custom_numbering&gt;false&lt;/custom_numbering&gt;&lt;html_body&gt;&lt;![CDATA[&lt;p&gt;This is the second part of the Wiki page:&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;The&amp;nbsp;&lt;a title="Electrical telegraph" href="https://en.wikipedia.org/wiki/Electrical_telegraph"&gt;electrical telegraph&lt;/a&gt;&amp;nbsp;systems, developed in the early 19th century, used simple electrical signals to send text messages. In the late 19th century, the&amp;nbsp;&lt;a title="Wireless telegraphy" href="https://en.wikipedia.org/wiki/Wireless_telegraphy"&gt;wireless telegraphy&lt;/a&gt;&amp;nbsp;was developed using&amp;nbsp;&lt;a title="Radio waves" href="https://en.wikipedia.org/wiki/Radio_waves"&gt;radio waves&lt;/a&gt;.&lt;/p&gt;
@@ -39,25 +39,26 @@
         <payload_hash>152131747</payload_hash>
         <record_name>par - Section here is third</record_name>
         <reverted_from/>
-        <source>21ce37abdb05c01033995886dc961925</source>
+        <source>08d89d4d1b2d40d408dc64606e4bcbc3</source>
         <source_table>sys_update_set</source_table>
         <state>previous</state>
-        <sys_created_by>mla@businessnow.dk</sys_created_by>
-        <sys_created_on>2019-12-03 10:41:07</sys_created_on>
-        <sys_id>b47e54fcdba1c05033995886dc961987</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_recorded_at>16ecb5974270000001</sys_recorded_at>
-        <sys_updated_by>mla@businessnow.dk</sys_updated_by>
-        <sys_updated_on>2019-12-03 10:41:07</sys_updated_on>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-04 09:35:10</sys_created_on>
+        <sys_id>2cf8598d1b2d40d408dc64606e4bcb04</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>16ed0436e120000001</sys_recorded_at>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-04 09:35:14</sys_updated_on>
         <type>Paragraph</type>
         <update_guid>fc7e54fc75a1c0507ef3f46db2fdf186</update_guid>
         <update_guid_history>fc7e54fc75a1c0507ef3f46db2fdf186:152131747,a31858079c0140108bef222b3d6b3a9b:1637816507</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="par - Section here is third">f1737f95dbe5445033995886dc961923</sys_audit_delete>
+        <sys_audit_delete display_value="Record deleted 05-12-2019 23:16:37">d8d05de51ba144d408dc64606e4bcb2e</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
-        <sys_created_by>mla@businessnow.dk</sys_created_by>
-        <sys_created_on>2019-12-05 15:28:46</sys_created_on>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-05 22:16:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_db_object display_value="" name="x_buno_doc_paragraph">x_buno_doc_paragraph</sys_db_object>
         <sys_id>088128dc804a42dca88503b5245a8b90</sys_id>
         <sys_metadata>a3085807db01401033995886dc96190c</sys_metadata>
@@ -66,11 +67,12 @@
         <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
         <sys_parent/>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
         <sys_scope_delete display_value="">25f41efe0f984d6895ad3fb4d47fd1c9</sys_scope_delete>
         <sys_update_name>x_buno_doc_paragraph_a3085807db01401033995886dc96190c</sys_update_name>
-        <sys_update_version display_value="x_buno_doc_paragraph_a3085807db01401033995886dc96190c">b47e54fcdba1c05033995886dc961987</sys_update_version>
-        <sys_updated_by>mla@businessnow.dk</sys_updated_by>
-        <sys_updated_on>2019-12-05 15:28:46</sys_updated_on>
+        <sys_update_version display_value="x_buno_doc_paragraph_a3085807db01401033995886dc96190c">2cf8598d1b2d40d408dc64606e4bcb04</sys_update_version>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-05 22:16:37</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

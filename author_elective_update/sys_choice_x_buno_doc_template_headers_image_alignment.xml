@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="image_alignment" table="x_buno_doc_template_headers" version="3">
+    <sys_choice action="DELETE" field="image_alignment" table="x_buno_doc_template_headers" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>image_alignment</element>
@@ -74,4 +74,51 @@
             <sys_updated_on>2019-11-22 22:15:24</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Builder">c0538f36dbc9001033995886dc96195e</application>
+        <file_path/>
+        <instance_id>c92022e06f4ad1c0d54da9cc5d3ee4ef</instance_id>
+        <instance_name>maerskdrillingdev</instance_name>
+        <name>sys_choice_x_buno_doc_template_headers_image_alignment</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="image_alignment" table="x_buno_doc_template_headers" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>image_alignment</element><hint/><inactive>false</inactive><label>Left</label><language>en</language><name>x_buno_doc_template_headers</name><sequence>0</sequence><sys_created_by>mla@businessnow.dk</sys_created_by><sys_created_on>2019-11-22 22:15:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4ad3dadddbd5081033995886dc9619d8</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>mla@businessnow.dk</sys_updated_by><sys_updated_on>2019-11-22 22:17:21</sys_updated_on><value>0</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>image_alignment</element><hint/><inactive>false</inactive><label>Center</label><language>en</language><name>x_buno_doc_template_headers</name><sequence>1</sequence><sys_created_by>mla@businessnow.dk</sys_created_by><sys_created_on>2019-11-22 22:15:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8de39edddbd5081033995886dc96199b</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>mla@businessnow.dk</sys_updated_by><sys_updated_on>2019-11-22 22:17:18</sys_updated_on><value>1</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>image_alignment</element><hint/><inactive>false</inactive><label>Right</label><language>en</language><name>x_buno_doc_template_headers</name><sequence>2</sequence><sys_created_by>mla@businessnow.dk</sys_created_by><sys_created_on>2019-11-22 22:15:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7be39edddbd5081033995886dc961908</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>mla@businessnow.dk</sys_updated_by><sys_updated_on>2019-11-22 22:17:23</sys_updated_on><value>2</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>image_alignment</element><name>x_buno_doc_template_headers</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>mla@businessnow.dk</sys_created_by><sys_created_on>2019-11-22 22:15:24</sys_created_on><sys_id>ffd39edddbd5081033995886dc96192f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>image_alignment</sys_name><sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package><sys_policy/><sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope><sys_update_name>sys_choice_x_buno_doc_template_headers_image_alignment</sys_update_name><sys_updated_by>mla@businessnow.dk</sys_updated_by><sys_updated_on>2019-11-22 22:15:24</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1661162201</payload_hash>
+        <record_name>Template Headers.Image Alignment</record_name>
+        <reverted_from/>
+        <source>9fc85d4d1b2d40d408dc64606e4bcb12</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-04 09:35:02</sys_created_on>
+        <sys_id>2ae8558d1b2d40d408dc64606e4bcb5d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>16ed0434fc80000001</sys_recorded_at>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-04 09:35:15</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>7054161132190810ddc2ba4c528553c5</update_guid>
+        <update_guid_history>7054161132190810ddc2ba4c528553c5:1661162201,4c545611431908100e1d63458e766451:-32225938,2f4416114219081086df9e44a6a3c8c9:-825795201,abf39edd6dd508104cb0ff697e6de427:-1777390245,96f3dadd6ed50810b041ca62caa431de:-1140210362,24f39edda1d50810879a49727b5abc21:-1196045123,5be39edd3bd50810ec2158799ce4eea3:1217436897,96e39edd13d508103825664adde0959f:-1357291995,fbd39eddb8d50810e39c28c9a0af2c31:-166682008</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mla@businessnow.dk</sys_created_by>
+        <sys_created_on>2019-12-04 13:55:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>e6e8558d1b2d40d408dc64606e4bcb59</sys_id>
+        <sys_metadata>e6e8558d1b2d40d408dc64606e4bcb59</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>image_alignment</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_scope_delete display_value="">25f41efe0f984d6895ad3fb4d47fd1c9</sys_scope_delete>
+        <sys_update_name>sys_choice_x_buno_doc_template_headers_image_alignment</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_buno_doc_template_headers_image_alignment">2ae8558d1b2d40d408dc64606e4bcb5d</sys_update_version>
+        <sys_updated_by>mla@businessnow.dk</sys_updated_by>
+        <sys_updated_on>2019-12-04 13:55:55</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>

@@ -5,12 +5,12 @@
         <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
+        <calculation>(function calculatedFieldValue(current) {
 
 	// Add your code here
 	return '';  // return the calculated value
 
-})(current);]]></calculation>
+})(current);</calculation>
         <choice>3</choice>
         <choice_field/>
         <choice_table/>
@@ -53,11 +53,13 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>mla@businessnow.dk</sys_created_by>
         <sys_created_on>2019-12-05 15:53:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f3c87bd9dbe5445033995886dc9619a4</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>File Type</sys_name>
         <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
         <sys_update_name>sys_dictionary_x_buno_doc_template_file_type</sys_update_name>
         <sys_updated_by>mla@businessnow.dk</sys_updated_by>
