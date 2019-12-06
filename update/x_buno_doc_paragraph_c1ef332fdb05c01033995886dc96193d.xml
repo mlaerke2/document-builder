@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_buno_doc_paragraph">
+    <x_buno_doc_paragraph action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_html>false</custom_html>
+        <custom_numbering>false</custom_numbering>
+        <html_body><![CDATA[<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>]]></html_body>
+        <order>3</order>
+        <section display_value="section to">2b2f77ebdb05c01033995886dc961967</section>
+        <short_description>par - section to 3</short_description>
+        <sys_class_name>x_buno_doc_paragraph</sys_class_name>
+        <sys_created_by>mla@businessnow.dk</sys_created_by>
+        <sys_created_on>2019-11-17 19:38:05</sys_created_on>
+        <sys_id>c1ef332fdb05c01033995886dc96193d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>par - section to 3</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_update_name>x_buno_doc_paragraph_c1ef332fdb05c01033995886dc96193d</sys_update_name>
+        <sys_updated_by>mla@businessnow.dk</sys_updated_by>
+        <sys_updated_on>2019-11-17 20:21:57</sys_updated_on>
+        <table>problem</table>
+    </x_buno_doc_paragraph>
+</record_update>
