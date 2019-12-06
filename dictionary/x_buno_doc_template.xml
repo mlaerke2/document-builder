@@ -34,6 +34,7 @@
         <element attributes="edge_encryption_enabled=true" display="true" label="Short Description" max_length="150" name="short_description" type="string"/>
         <element attributes="allow_public=true" label="Table" mandatory="true" max_length="80" name="table" type="table_name"/>
         <element attributes="encode_utf8=false" label="Template Owner" mandatory="true" max_length="32" name="template_owner" reference="sys_user" type="reference"/>
+        <element label="Test" max_length="40" name="test" type="string"/>
         <index name="index">
             <element name="template_owner"/>
         </index>
