@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="DELETE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd hh:mm:ss</date_format>
+        <map display_value="paragraphs_tranform">d34df1a21ba10cd408dc64606e4bcbcf</map>
+        <reference_value_field/>
+        <source_field>u_section</source_field>
+        <source_script>answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);</source_script>
+        <source_table>x_buno_doc_paragraphs</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:05:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b07dbd661ba10cd408dc64606e4bcb9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_section</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_update_name>sys_transform_entry_b07dbd661ba10cd408dc64606e4bcb9b</sys_update_name>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:05:32</sys_updated_on>
+        <target_field>section</target_field>
+        <target_table>x_buno_doc_paragraph</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Builder">c0538f36dbc9001033995886dc96195e</application>
+        <file_path/>
+        <instance_id>c92022e06f4ad1c0d54da9cc5d3ee4ef</instance_id>
+        <instance_name>maerskdrillingdev</instance_name>
+        <name>sys_transform_entry_b07dbd661ba10cd408dc64606e4bcb9b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry"><sys_transform_entry action="INSERT_OR_UPDATE"><choice_action>create</choice_action><coalesce>false</coalesce><coalesce_case_sensitive>false</coalesce_case_sensitive><coalesce_empty_fields>false</coalesce_empty_fields><date_format>yyyy-MM-dd hh:mm:ss</date_format><map display_value="paragraphs_tranform">d34df1a21ba10cd408dc64606e4bcbcf</map><reference_value_field/><source_field>u_section</source_field><source_script>answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);</source_script><source_table>x_buno_doc_paragraphs</source_table><sys_class_name>sys_transform_entry</sys_class_name><sys_created_by>MLA291</sys_created_by><sys_created_on>2019-12-09 04:05:32</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>b07dbd661ba10cd408dc64606e4bcb9b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_section</sys_name><sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope><sys_update_name>sys_transform_entry_b07dbd661ba10cd408dc64606e4bcb9b</sys_update_name><sys_updated_by>MLA291</sys_updated_by><sys_updated_on>2019-12-09 04:05:32</sys_updated_on><target_field>section</target_field><target_table>x_buno_doc_paragraph</target_table><use_source_script>false</use_source_script></sys_transform_entry></record_update>]]></payload>
+        <payload_hash>-1724541005</payload_hash>
+        <record_name>u_section</record_name>
+        <reverted_from/>
+        <source>751951cd1b2d40d408dc64606e4bcbe2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:05:32</sys_created_on>
+        <sys_id>787dbd661ba10cd408dc64606e4bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ee8d5709c0000001</sys_recorded_at>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:05:32</sys_updated_on>
+        <type>Field Map</type>
+        <update_guid>707dbd6684a10cd42c80f0f66739aa9c</update_guid>
+        <update_guid_history>707dbd6684a10cd42c80f0f66739aa9c:-1724541005</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:07:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_transform_entry">sys_transform_entry</sys_db_object>
+        <sys_id>387d0b9bd15b4b13ab3d2502e4277bd9</sys_id>
+        <sys_metadata>b07dbd661ba10cd408dc64606e4bcb9b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_section</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_scope_delete display_value="">25f41efe0f984d6895ad3fb4d47fd1c9</sys_scope_delete>
+        <sys_update_name>sys_transform_entry_b07dbd661ba10cd408dc64606e4bcb9b</sys_update_name>
+        <sys_update_version display_value="sys_transform_entry_b07dbd661ba10cd408dc64606e4bcb9b">787dbd661ba10cd408dc64606e4bcb9c</sys_update_version>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:07:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

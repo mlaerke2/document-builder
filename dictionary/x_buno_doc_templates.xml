@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="templates" max_length="40" name="x_buno_doc_templates" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Condition" label="Condition" max_length="80" name="u_condition" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Created" label="Created" max_length="40" name="u_created" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Custom Headers and Footers" label="Custom Headers and Footers" max_length="40" name="u_custom_headers_and_footers" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Footer First Page" label="Footer First Page" max_length="40" name="u_footer_first_page" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Footer Second Page" label="Footer Second Page" max_length="40" name="u_footer_second_page" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Header First Page" label="Header First Page" max_length="40" name="u_header_first_page" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Header Logo" label="Header Logo" max_length="40" name="u_header_logo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Header Second Page" label="Header Second Page" max_length="40" name="u_header_second_page" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Language" label="Language" max_length="40" name="u_language" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="40" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Table" label="Table" max_length="50" name="u_table" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Updated" label="Updated" max_length="40" name="u_updated" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Updated by" label="Updated by" max_length="40" name="u_updated_by" type="string"/>
+    </element>
+</database>

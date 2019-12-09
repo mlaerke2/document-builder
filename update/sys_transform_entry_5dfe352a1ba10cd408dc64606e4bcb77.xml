@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>reject</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd hh:mm:ss</date_format>
+        <map display_value="paragraphs_tranform">d34df1a21ba10cd408dc64606e4bcbcf</map>
+        <reference_value_field/>
+        <source_field>[Script]</source_field>
+        <source_script>answer = (function transformEntry(source) {&#13;
+&#13;
+        var template = 'MD Offshore Contract - Translation';&#13;
+	var gr = new GlideRecord("x_buno_doc_section");&#13;
+	gr.addQuery("section_headline", source.u_section);&#13;
+       gr.addQuery('template.short_description', template);&#13;
+	gr.query();&#13;
+	if (gr.next()) {&#13;
+		&#13;
+		return gr.getUniqueValue();&#13;
+&#13;
+	}&#13;
+&#13;
+})(source);</source_script>
+        <source_table>x_buno_doc_paragraphs</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:15:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5dfe352a1ba10cd408dc64606e4bcb77</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>[Script]</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_update_name>sys_transform_entry_5dfe352a1ba10cd408dc64606e4bcb77</sys_update_name>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 05:27:15</sys_updated_on>
+        <target_field>section</target_field>
+        <target_table>x_buno_doc_paragraph</target_table>
+        <use_source_script>true</use_source_script>
+    </sys_transform_entry>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_list_order" label="List Order" language="en" table="x_buno_doc_paragraphs">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_list_order</element>
+            <help/>
+            <hint/>
+            <label>List Order</label>
+            <language>en</language>
+            <name>x_buno_doc_paragraphs</name>
+            <plural>List Orders</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 04:04:40</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>0c4db5661ba10cd408dc64606e4bcbd5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>List Order</sys_name>
+            <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+            <sys_update_name>sys_documentation_x_buno_doc_paragraphs_u_list_order_en</sys_update_name>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 04:04:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

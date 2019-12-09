@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="case" table="x_buno_doc_template" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>case</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Case 1</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>0</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 05:30:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>79d092e21b250cd408dc64606e4bcb17</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 09:32:58</sys_updated_on>
+            <value>Case 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>case</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Case 2</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>1</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 05:30:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>90e016621b250cd408dc64606e4bcb36</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 09:32:58</sys_updated_on>
+            <value>Case 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>case</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Case 3</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>2</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 05:30:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bde0dae21b250cd408dc64606e4bcb8e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 09:32:58</sys_updated_on>
+            <value>Case 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>case</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Case 4</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>3</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 05:30:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ebe096ea1be10cd408dc64606e4bcbff</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 09:32:58</sys_updated_on>
+            <value>Case 4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>case</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Case 5</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>4</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 05:30:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>71f016621b250cd408dc64606e4bcb38</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 09:32:58</sys_updated_on>
+            <value>Case 5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>case</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Case 6</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>5</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 05:31:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3ff0dae21b250cd408dc64606e4bcbb0</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 09:32:58</sys_updated_on>
+            <value>Case 6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>case</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Case 7</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>6</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 05:31:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>39019ee21b250cd408dc64606e4bcb32</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 09:32:58</sys_updated_on>
+            <value>Case 7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>case</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Case 9</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>7</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 05:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f7019ee21b250cd408dc64606e4bcb43</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 09:32:58</sys_updated_on>
+            <value>Case 9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>case</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Case 11</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>8</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 05:31:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>66119ee21b250cd408dc64606e4bcb44</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 09:32:58</sys_updated_on>
+            <value>Case 11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>case</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Demo</label>
+            <language>en</language>
+            <name>x_buno_doc_template</name>
+            <sequence>9</sequence>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 09:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4968832e1b690cd408dc64606e4bcb87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 09:32:58</sys_updated_on>
+            <value>Demo</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>case</element>
+            <name>x_buno_doc_template</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 05:30:25</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>18e092e21b250cd408dc64606e4bcb19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>case</sys_name>
+            <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+            <sys_update_name>sys_choice_x_buno_doc_template_case</sys_update_name>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 05:30:25</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="cdf9b5ee1b610cd408dc64606e4bcb02" sys_domain="global" table="x_buno_doc_sections2" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 03:50:16</sys_created_on>
+            <sys_id>c9f939221ba10cd408dc64606e4bcb73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_buno_doc_sections2" sys_domain="global" view="Default view">cdf9b5ee1b610cd408dc64606e4bcb02</sys_ui_section>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 03:50:16</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_section</element>
+            <position>1</position>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 03:50:16</sys_created_on>
+            <sys_id>85f939221ba10cd408dc64606e4bcb74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_buno_doc_sections2" sys_domain="global" view="Default view">cdf9b5ee1b610cd408dc64606e4bcb02</sys_ui_section>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 03:50:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_section_order</element>
+            <position>2</position>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 03:50:16</sys_created_on>
+            <sys_id>0df939221ba10cd408dc64606e4bcb74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_buno_doc_sections2" sys_domain="global" view="Default view">cdf9b5ee1b610cd408dc64606e4bcb02</sys_ui_section>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 03:50:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 03:50:16</sys_created_on>
+            <sys_id>81f939221ba10cd408dc64606e4bcb75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_buno_doc_sections2" sys_domain="global" view="Default view">cdf9b5ee1b610cd408dc64606e4bcb02</sys_ui_section>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 03:50:16</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_template_selector</element>
+            <position>4</position>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 03:50:16</sys_created_on>
+            <sys_id>09f939221ba10cd408dc64606e4bcb75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_buno_doc_sections2" sys_domain="global" view="Default view">cdf9b5ee1b610cd408dc64606e4bcb02</sys_ui_section>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 03:50:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 03:50:16</sys_created_on>
+            <sys_id>8df939221ba10cd408dc64606e4bcb75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_buno_doc_sections2" sys_domain="global" view="Default view">cdf9b5ee1b610cd408dc64606e4bcb02</sys_ui_section>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 03:50:16</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_buno_doc_sections2</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>MLA291</sys_created_by>
+            <sys_created_on>2019-12-09 03:50:16</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>cdf9b5ee1b610cd408dc64606e4bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_buno_doc_sections2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+            <sys_update_name>sys_ui_section_cdf9b5ee1b610cd408dc64606e4bcb02</sys_update_name>
+            <sys_updated_by>MLA291</sys_updated_by>
+            <sys_updated_on>2019-12-09 03:50:16</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

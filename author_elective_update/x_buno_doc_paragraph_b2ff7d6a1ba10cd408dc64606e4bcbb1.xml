@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_buno_doc_paragraph">
+    <x_buno_doc_paragraph action="DELETE">
+        <active>true</active>
+        <condition/>
+        <custom_html>true</custom_html>
+        <custom_numbering>false</custom_numbering>
+        <html_body><![CDATA[<p>&nbsp;<span style="font-family: verdana, geneva; font-size: 10pt;">${pageBreak}Full name: __________________________________________________________________ </span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;">CPR &ndash; number: _______________________________________________________________ </span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;">Email address: _______________________________________________________________ </span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;">If you need access to the parking basement, please specify: Motorcycle:____ or car:_____</span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;">SWIFT/BIC code: _____________________________________________________________</span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;"><em>(The SWIFT/BIC code will be used for reimbursing expenses you have on behalf of the Company and consist of 8 or 11 characters. It can be found on paper bank statements and from electronic banking systems).</em></span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;">IBAN-number: _______________________________________________________________</span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;"><em>(The International Bank Account Number will be used for reimbursing expenses you have on behalf of the Company and has a maximum of 34 characters, in Denmark the IBAN-number consists of 18 characters. It can be found on paper bank statements and from electronic banking systems).</em></span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;">Please state next of kin for insurance purposes:</span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;">Name: _____________________________________________________________________</span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;">Address: ____________________________________________________________________</span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;">Zip code and city: ______________________________________ Phone: ________________</span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;">Relation to employee e.g Spouse, partner, mother, father, sibling: ________________________</span></p>
+<p><span style="font-family: verdana, geneva; font-size: 10pt;">&nbsp;</span></p>]]></html_body>
+        <order>101</order>
+        <section display_value="Other Conditions">325af1621ba10cd408dc64606e4bcbc3</section>
+        <short_description>par - Other Conditions 100</short_description>
+        <sys_class_name>x_buno_doc_paragraph</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:16:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b2ff7d6a1ba10cd408dc64606e4bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par - Other Conditions 100</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_update_name>x_buno_doc_paragraph_b2ff7d6a1ba10cd408dc64606e4bcbb1</sys_update_name>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:16:36</sys_updated_on>
+        <table>sn_hr_core_hr_contract_48e</table>
+    </x_buno_doc_paragraph>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Builder">c0538f36dbc9001033995886dc96195e</application>
+        <file_path/>
+        <instance_id>c92022e06f4ad1c0d54da9cc5d3ee4ef</instance_id>
+        <instance_name>maerskdrillingdev</instance_name>
+        <name>x_buno_doc_paragraph_b2ff7d6a1ba10cd408dc64606e4bcbb1</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_buno_doc_paragraph"&gt;&lt;x_buno_doc_paragraph action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;condition/&gt;&lt;custom_html&gt;true&lt;/custom_html&gt;&lt;custom_numbering&gt;false&lt;/custom_numbering&gt;&lt;html_body&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;${pageBreak}Full name: __________________________________________________________________ &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;CPR &amp;ndash; number: _______________________________________________________________ &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;Email address: _______________________________________________________________ &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;If you need access to the parking basement, please specify: Motorcycle:____ or car:_____&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;SWIFT/BIC code: _____________________________________________________________&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;&lt;em&gt;(The SWIFT/BIC code will be used for reimbursing expenses you have on behalf of the Company and consist of 8 or 11 characters. It can be found on paper bank statements and from electronic banking systems).&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;IBAN-number: _______________________________________________________________&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;&lt;em&gt;(The International Bank Account Number will be used for reimbursing expenses you have on behalf of the Company and has a maximum of 34 characters, in Denmark the IBAN-number consists of 18 characters. It can be found on paper bank statements and from electronic banking systems).&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;Please state next of kin for insurance purposes:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;Name: _____________________________________________________________________&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;Address: ____________________________________________________________________&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;Zip code and city: ______________________________________ Phone: ________________&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;Relation to employee e.g Spouse, partner, mother, father, sibling: ________________________&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;]]&gt;&lt;/html_body&gt;&lt;order&gt;101&lt;/order&gt;&lt;section display_value="Other Conditions"&gt;325af1621ba10cd408dc64606e4bcbc3&lt;/section&gt;&lt;short_description&gt;par - Other Conditions 100&lt;/short_description&gt;&lt;sys_class_name&gt;x_buno_doc_paragraph&lt;/sys_class_name&gt;&lt;sys_created_by&gt;MLA291&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-09 04:16:36&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;b2ff7d6a1ba10cd408dc64606e4bcbb1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;par - Other Conditions 100&lt;/sys_name&gt;&lt;sys_package display_value="Document Builder" source="x_buno_doc"&gt;c0538f36dbc9001033995886dc96195e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Document Builder"&gt;c0538f36dbc9001033995886dc96195e&lt;/sys_scope&gt;&lt;sys_update_name&gt;x_buno_doc_paragraph_b2ff7d6a1ba10cd408dc64606e4bcbb1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;MLA291&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-09 04:16:36&lt;/sys_updated_on&gt;&lt;table&gt;sn_hr_core_hr_contract_48e&lt;/table&gt;&lt;/x_buno_doc_paragraph&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1498266604</payload_hash>
+        <record_name>par - Other Conditions 100</record_name>
+        <reverted_from/>
+        <source>751951cd1b2d40d408dc64606e4bcbe2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:16:36</sys_created_on>
+        <sys_id>76ff7d6a1ba10cd408dc64606e4bcbb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ee8df92130000001</sys_recorded_at>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:16:36</sys_updated_on>
+        <type>Paragraph</type>
+        <update_guid>7eff7d6aefa10cd4927377489140abb1</update_guid>
+        <update_guid_history>7eff7d6aefa10cd4927377489140abb1:-1498266604</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 09-12-2019 05:19:35">aaa0ceaa1ba10cd408dc64606e4bcb3d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:19:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="x_buno_doc_paragraph">x_buno_doc_paragraph</sys_db_object>
+        <sys_id>1e9b21be67814486a8ea41883d50a1e4</sys_id>
+        <sys_metadata>b2ff7d6a1ba10cd408dc64606e4bcbb1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par - Other Conditions 100</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_scope_delete display_value="">25f41efe0f984d6895ad3fb4d47fd1c9</sys_scope_delete>
+        <sys_update_name>x_buno_doc_paragraph_b2ff7d6a1ba10cd408dc64606e4bcbb1</sys_update_name>
+        <sys_update_version display_value="x_buno_doc_paragraph_b2ff7d6a1ba10cd408dc64606e4bcbb1">76ff7d6a1ba10cd408dc64606e4bcbb2</sys_update_version>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:19:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

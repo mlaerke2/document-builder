@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_buno_doc_paragraph">
+    <x_buno_doc_paragraph action="DELETE">
+        <active>true</active>
+        <condition table="sn_hr_core_hr_contract_48e">u_if_position_allowance_annual=true^EQ<item endquery="false" field="u_if_position_allowance_annual" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_html>false</custom_html>
+        <custom_numbering>false</custom_numbering>
+        <html_body><![CDATA[<p>Considering the particular <span style="background: yellow; mso-highlight: yellow;">responsibility/working conditions </span> connected to your position, you will receive an allowance of DKK ${u_position_allowance_dkk} per month in addition to your gross salary mentioned in item 4.1. The allowance is paid out along with the monthly salary. The allowance is tied to this particular position, and you must expect it to cease if you take up a position not entitling to the allowance. This position allowance will not form part of your pensionable salary.</p>]]></html_body>
+        <order>8</order>
+        <section display_value="Remuneration">1e5af1621ba10cd408dc64606e4bcb09</section>
+        <short_description>par - Remuneration 8</short_description>
+        <sys_class_name>x_buno_doc_paragraph</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:16:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>feff7d6a1ba10cd408dc64606e4bcb91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par - Remuneration 8</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_update_name>x_buno_doc_paragraph_feff7d6a1ba10cd408dc64606e4bcb91</sys_update_name>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:16:36</sys_updated_on>
+        <table>sn_hr_core_hr_contract_48e</table>
+    </x_buno_doc_paragraph>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Builder">c0538f36dbc9001033995886dc96195e</application>
+        <file_path/>
+        <instance_id>c92022e06f4ad1c0d54da9cc5d3ee4ef</instance_id>
+        <instance_name>maerskdrillingdev</instance_name>
+        <name>x_buno_doc_paragraph_feff7d6a1ba10cd408dc64606e4bcb91</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_buno_doc_paragraph"&gt;&lt;x_buno_doc_paragraph action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;condition table="sn_hr_core_hr_contract_48e"&gt;u_if_position_allowance_annual=true^EQ&lt;item endquery="false" field="u_if_position_allowance_annual" goto="false" newquery="false" operator="=" or="false" value="true"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;custom_html&gt;false&lt;/custom_html&gt;&lt;custom_numbering&gt;false&lt;/custom_numbering&gt;&lt;html_body&gt;&lt;![CDATA[&lt;p&gt;Considering the particular &lt;span style="background: yellow; mso-highlight: yellow;"&gt;responsibility/working conditions &lt;/span&gt; connected to your position, you will receive an allowance of DKK ${u_position_allowance_dkk} per month in addition to your gross salary mentioned in item 4.1. The allowance is paid out along with the monthly salary. The allowance is tied to this particular position, and you must expect it to cease if you take up a position not entitling to the allowance. This position allowance will not form part of your pensionable salary.&lt;/p&gt;]]&gt;&lt;/html_body&gt;&lt;order&gt;8&lt;/order&gt;&lt;section display_value="Remuneration"&gt;1e5af1621ba10cd408dc64606e4bcb09&lt;/section&gt;&lt;short_description&gt;par - Remuneration 8&lt;/short_description&gt;&lt;sys_class_name&gt;x_buno_doc_paragraph&lt;/sys_class_name&gt;&lt;sys_created_by&gt;MLA291&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-09 04:16:36&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;feff7d6a1ba10cd408dc64606e4bcb91&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;par - Remuneration 8&lt;/sys_name&gt;&lt;sys_package display_value="Document Builder" source="x_buno_doc"&gt;c0538f36dbc9001033995886dc96195e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Document Builder"&gt;c0538f36dbc9001033995886dc96195e&lt;/sys_scope&gt;&lt;sys_update_name&gt;x_buno_doc_paragraph_feff7d6a1ba10cd408dc64606e4bcb91&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;MLA291&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-09 04:16:36&lt;/sys_updated_on&gt;&lt;table&gt;sn_hr_core_hr_contract_48e&lt;/table&gt;&lt;/x_buno_doc_paragraph&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1788846129</payload_hash>
+        <record_name>par - Remuneration 8</record_name>
+        <reverted_from/>
+        <source>751951cd1b2d40d408dc64606e4bcbe2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:16:36</sys_created_on>
+        <sys_id>b2ff7d6a1ba10cd408dc64606e4bcb93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ee8df90e30000001</sys_recorded_at>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:16:36</sys_updated_on>
+        <type>Paragraph</type>
+        <update_guid>baff7d6afba10cd431da861c0d9f3992</update_guid>
+        <update_guid_history>baff7d6afba10cd431da861c0d9f3992:-1788846129</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 09-12-2019 05:19:37">43a0ceaa1ba10cd408dc64606e4bcbb9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:19:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="x_buno_doc_paragraph">x_buno_doc_paragraph</sys_db_object>
+        <sys_id>7f5e62e0c1594601a10e29e088eaead1</sys_id>
+        <sys_metadata>feff7d6a1ba10cd408dc64606e4bcb91</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par - Remuneration 8</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_scope_delete display_value="">25f41efe0f984d6895ad3fb4d47fd1c9</sys_scope_delete>
+        <sys_update_name>x_buno_doc_paragraph_feff7d6a1ba10cd408dc64606e4bcb91</sys_update_name>
+        <sys_update_version display_value="x_buno_doc_paragraph_feff7d6a1ba10cd408dc64606e4bcb91">b2ff7d6a1ba10cd408dc64606e4bcb93</sys_update_version>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:19:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_buno_doc_paragraph">
+    <x_buno_doc_paragraph action="DELETE">
+        <active>true</active>
+        <condition/>
+        <custom_html>false</custom_html>
+        <custom_numbering>false</custom_numbering>
+        <html_body><![CDATA[<p>You must be prepared for business related travelling for shorter or longer periods of time. During business travels, you are obliged to adhere to the Company travel policy.</p>]]></html_body>
+        <order>2</order>
+        <section display_value="Place of work">125af1621ba10cd408dc64606e4bcb00</section>
+        <short_description>par - Place of Work 2</short_description>
+        <sys_class_name>x_buno_doc_paragraph</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:16:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6aff7d6a1ba10cd408dc64606e4bcb54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par - Place of Work 2</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_update_name>x_buno_doc_paragraph_6aff7d6a1ba10cd408dc64606e4bcb54</sys_update_name>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:16:35</sys_updated_on>
+        <table>sn_hr_core_hr_contract_48e</table>
+    </x_buno_doc_paragraph>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Builder">c0538f36dbc9001033995886dc96195e</application>
+        <file_path/>
+        <instance_id>c92022e06f4ad1c0d54da9cc5d3ee4ef</instance_id>
+        <instance_name>maerskdrillingdev</instance_name>
+        <name>x_buno_doc_paragraph_6aff7d6a1ba10cd408dc64606e4bcb54</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_buno_doc_paragraph"&gt;&lt;x_buno_doc_paragraph action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;condition/&gt;&lt;custom_html&gt;false&lt;/custom_html&gt;&lt;custom_numbering&gt;false&lt;/custom_numbering&gt;&lt;html_body&gt;&lt;![CDATA[&lt;p&gt;You must be prepared for business related travelling for shorter or longer periods of time. During business travels, you are obliged to adhere to the Company travel policy.&lt;/p&gt;]]&gt;&lt;/html_body&gt;&lt;order&gt;2&lt;/order&gt;&lt;section display_value="Place of work"&gt;125af1621ba10cd408dc64606e4bcb00&lt;/section&gt;&lt;short_description&gt;par - Place of Work 2&lt;/short_description&gt;&lt;sys_class_name&gt;x_buno_doc_paragraph&lt;/sys_class_name&gt;&lt;sys_created_by&gt;MLA291&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-09 04:16:35&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;6aff7d6a1ba10cd408dc64606e4bcb54&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;par - Place of Work 2&lt;/sys_name&gt;&lt;sys_package display_value="Document Builder" source="x_buno_doc"&gt;c0538f36dbc9001033995886dc96195e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Document Builder"&gt;c0538f36dbc9001033995886dc96195e&lt;/sys_scope&gt;&lt;sys_update_name&gt;x_buno_doc_paragraph_6aff7d6a1ba10cd408dc64606e4bcb54&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;MLA291&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-09 04:16:35&lt;/sys_updated_on&gt;&lt;table&gt;sn_hr_core_hr_contract_48e&lt;/table&gt;&lt;/x_buno_doc_paragraph&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1363019905</payload_hash>
+        <record_name>par - Place of Work 2</record_name>
+        <reverted_from/>
+        <source>751951cd1b2d40d408dc64606e4bcbe2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:16:35</sys_created_on>
+        <sys_id>2eff7d6a1ba10cd408dc64606e4bcb55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ee8df8dc50000001</sys_recorded_at>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:16:35</sys_updated_on>
+        <type>Paragraph</type>
+        <update_guid>26ff7d6abfa10cd4e8f300ff6d379e55</update_guid>
+        <update_guid_history>26ff7d6abfa10cd4e8f300ff6d379e55:1363019905</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 09-12-2019 05:19:34">d6a08eaa1ba10cd408dc64606e4bcb90</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:19:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="x_buno_doc_paragraph">x_buno_doc_paragraph</sys_db_object>
+        <sys_id>039abd642e7b46f280c587cd62a4f924</sys_id>
+        <sys_metadata>6aff7d6a1ba10cd408dc64606e4bcb54</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par - Place of Work 2</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_scope_delete display_value="">25f41efe0f984d6895ad3fb4d47fd1c9</sys_scope_delete>
+        <sys_update_name>x_buno_doc_paragraph_6aff7d6a1ba10cd408dc64606e4bcb54</sys_update_name>
+        <sys_update_version display_value="x_buno_doc_paragraph_6aff7d6a1ba10cd408dc64606e4bcb54">2eff7d6a1ba10cd408dc64606e4bcb55</sys_update_version>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:19:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

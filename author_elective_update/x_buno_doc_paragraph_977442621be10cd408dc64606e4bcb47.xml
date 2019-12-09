@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_buno_doc_paragraph">
+    <x_buno_doc_paragraph action="DELETE">
+        <active>true</active>
+        <condition table="sn_hr_core_hr_contract_addendum">u_extension_of_fixed_contract=true^EQ<item endquery="false" field="u_extension_of_fixed_contract" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_html>true</custom_html>
+        <custom_numbering>false</custom_numbering>
+        <html_body><![CDATA[<p style="text-align: justify;"><span style="font-family: verdana, geneva; font-size: 10pt;">According to your employment contract issued&nbsp;${u_issue_date_of_the_latest_contract} with the Company, your employment with the Company will terminate on ${u_contract_termination}.</span></p>
+<p style="text-align: justify;"><span style="font-family: verdana, geneva; font-size: 10pt;">As per your own and the Company&acute;s request, your contract on current terms will be extended until ${u_new_contract_termination} on which date it shall terminate without further notice.</span></p>]]></html_body>
+        <order>99</order>
+        <section display_value="undefined">1b7442621be10cd408dc64606e4bcb3e</section>
+        <short_description>par - Extention of Fixed</short_description>
+        <sys_class_name>x_buno_doc_paragraph</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:36:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>977442621be10cd408dc64606e4bcb47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par - Extention of Fixed</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_update_name>x_buno_doc_paragraph_977442621be10cd408dc64606e4bcb47</sys_update_name>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:36:18</sys_updated_on>
+        <table>sn_hr_core_hr_contract_addendum</table>
+    </x_buno_doc_paragraph>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Builder">c0538f36dbc9001033995886dc96195e</application>
+        <file_path/>
+        <instance_id>c92022e06f4ad1c0d54da9cc5d3ee4ef</instance_id>
+        <instance_name>maerskdrillingdev</instance_name>
+        <name>x_buno_doc_paragraph_977442621be10cd408dc64606e4bcb47</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_buno_doc_paragraph"&gt;&lt;x_buno_doc_paragraph action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;condition table="sn_hr_core_hr_contract_addendum"&gt;u_extension_of_fixed_contract=true^EQ&lt;item endquery="false" field="u_extension_of_fixed_contract" goto="false" newquery="false" operator="=" or="false" value="true"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;custom_html&gt;true&lt;/custom_html&gt;&lt;custom_numbering&gt;false&lt;/custom_numbering&gt;&lt;html_body&gt;&lt;![CDATA[&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;According to your employment contract issued&amp;nbsp;${u_issue_date_of_the_latest_contract} with the Company, your employment with the Company will terminate on ${u_contract_termination}.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: verdana, geneva; font-size: 10pt;"&gt;As per your own and the Company&amp;acute;s request, your contract on current terms will be extended until ${u_new_contract_termination} on which date it shall terminate without further notice.&lt;/span&gt;&lt;/p&gt;]]&gt;&lt;/html_body&gt;&lt;order&gt;99&lt;/order&gt;&lt;section display_value="undefined"&gt;1b7442621be10cd408dc64606e4bcb3e&lt;/section&gt;&lt;short_description&gt;par - Extention of Fixed&lt;/short_description&gt;&lt;sys_class_name&gt;x_buno_doc_paragraph&lt;/sys_class_name&gt;&lt;sys_created_by&gt;MLA291&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-09 04:36:18&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;977442621be10cd408dc64606e4bcb47&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;par - Extention of Fixed&lt;/sys_name&gt;&lt;sys_package display_value="Document Builder" source="x_buno_doc"&gt;c0538f36dbc9001033995886dc96195e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Document Builder"&gt;c0538f36dbc9001033995886dc96195e&lt;/sys_scope&gt;&lt;sys_update_name&gt;x_buno_doc_paragraph_977442621be10cd408dc64606e4bcb47&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;MLA291&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-09 04:36:18&lt;/sys_updated_on&gt;&lt;table&gt;sn_hr_core_hr_contract_addendum&lt;/table&gt;&lt;/x_buno_doc_paragraph&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-126579946</payload_hash>
+        <record_name>par - Extention of Fixed</record_name>
+        <reverted_from/>
+        <source>751951cd1b2d40d408dc64606e4bcbe2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:36:18</sys_created_on>
+        <sys_id>137442621be10cd408dc64606e4bcb55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ee8f19a7e0000001</sys_recorded_at>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:36:18</sys_updated_on>
+        <type>Paragraph</type>
+        <update_guid>1b744262c1e10cd48b44334eff767b54</update_guid>
+        <update_guid_history>1b744262c1e10cd48b44334eff767b54:-126579946</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 09-12-2019 05:37:56">dbd4ca621be10cd408dc64606e4bcb1f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:37:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="x_buno_doc_paragraph">x_buno_doc_paragraph</sys_db_object>
+        <sys_id>d514399a2a9d439aae53ae806feea069</sys_id>
+        <sys_metadata>977442621be10cd408dc64606e4bcb47</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par - Extention of Fixed</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_scope_delete display_value="">25f41efe0f984d6895ad3fb4d47fd1c9</sys_scope_delete>
+        <sys_update_name>x_buno_doc_paragraph_977442621be10cd408dc64606e4bcb47</sys_update_name>
+        <sys_update_version display_value="x_buno_doc_paragraph_977442621be10cd408dc64606e4bcb47">137442621be10cd408dc64606e4bcb55</sys_update_version>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:37:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

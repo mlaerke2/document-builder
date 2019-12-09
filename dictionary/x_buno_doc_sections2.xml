@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="sections2" max_length="40" name="x_buno_doc_sections2" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Section" label="Section" max_length="52" name="u_section" type="string"/>
+        <element attributes="import_attribute_name=Section Order" label="Section Order" max_length="40" name="u_section_order" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Template Selector" label="Template Selector" max_length="40" name="u_template_selector" type="string"/>
+    </element>
+</database>

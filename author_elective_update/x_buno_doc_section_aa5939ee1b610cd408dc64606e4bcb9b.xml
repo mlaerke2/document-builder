@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_buno_doc_section">
+    <x_buno_doc_section action="DELETE">
+        <active>true</active>
+        <exclude_headline>false</exclude_headline>
+        <order>3</order>
+        <section_headline>Ansættelsesbrev</section_headline>
+        <sys_class_name>x_buno_doc_section</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 03:47:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>aa5939ee1b610cd408dc64606e4bcb9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ansættelsesbrev</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_update_name>x_buno_doc_section_aa5939ee1b610cd408dc64606e4bcb9b</sys_update_name>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 03:47:38</sys_updated_on>
+        <template display_value="undefined">d659f5ee1b610cd408dc64606e4bcbc7</template>
+    </x_buno_doc_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Builder">c0538f36dbc9001033995886dc96195e</application>
+        <file_path/>
+        <instance_id>c92022e06f4ad1c0d54da9cc5d3ee4ef</instance_id>
+        <instance_name>maerskdrillingdev</instance_name>
+        <name>x_buno_doc_section_aa5939ee1b610cd408dc64606e4bcb9b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_buno_doc_section"><x_buno_doc_section action="INSERT_OR_UPDATE"><active>true</active><exclude_headline>false</exclude_headline><order>3</order><section_headline>Ansættelsesbrev</section_headline><sys_class_name>x_buno_doc_section</sys_class_name><sys_created_by>MLA291</sys_created_by><sys_created_on>2019-12-09 03:47:38</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>aa5939ee1b610cd408dc64606e4bcb9b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ansættelsesbrev</sys_name><sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope><sys_update_name>x_buno_doc_section_aa5939ee1b610cd408dc64606e4bcb9b</sys_update_name><sys_updated_by>MLA291</sys_updated_by><sys_updated_on>2019-12-09 03:47:38</sys_updated_on><template display_value="undefined">d659f5ee1b610cd408dc64606e4bcbc7</template></x_buno_doc_section></record_update>]]></payload>
+        <payload_hash>-1200672314</payload_hash>
+        <record_name>Ansættelsesbrev</record_name>
+        <reverted_from/>
+        <source>751951cd1b2d40d408dc64606e4bcbe2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 03:47:38</sys_created_on>
+        <sys_id>6e5939ee1b610cd408dc64606e4bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ee8c50ed30000001</sys_recorded_at>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 03:47:38</sys_updated_on>
+        <type>Section</type>
+        <update_guid>665939eef2610cd4b2bc35ecf2cd119c</update_guid>
+        <update_guid_history>665939eef2610cd4b2bc35ecf2cd119c:-1200672314</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 09-12-2019 04:48:52">aca931221ba10cd408dc64606e4bcb6d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 03:48:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="x_buno_doc_section">x_buno_doc_section</sys_db_object>
+        <sys_id>6962da0a76c84ab6ae85e55a26a23a39</sys_id>
+        <sys_metadata>aa5939ee1b610cd408dc64606e4bcb9b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ansættelsesbrev</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_scope_delete display_value="">25f41efe0f984d6895ad3fb4d47fd1c9</sys_scope_delete>
+        <sys_update_name>x_buno_doc_section_aa5939ee1b610cd408dc64606e4bcb9b</sys_update_name>
+        <sys_update_version display_value="x_buno_doc_section_aa5939ee1b610cd408dc64606e4bcb9b">6e5939ee1b610cd408dc64606e4bcb9c</sys_update_version>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 03:48:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

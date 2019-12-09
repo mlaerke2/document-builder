@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_buno_doc_template">
+    <x_buno_doc_template action="DELETE">
+        <active>true</active>
+        <condition/>
+        <custom_headers_and_footers>false</custom_headers_and_footers>
+        <document_type>document</document_type>
+        <file_name/>
+        <file_type>word</file_type>
+        <footer_first_page/>
+        <footer_second_page/>
+        <header_first_page/>
+        <header_logo/>
+        <header_second_page/>
+        <image_alignment>0</image_alignment>
+        <language>english</language>
+        <pdf_footer/>
+        <short_description>undefined</short_description>
+        <sys_class_name>x_buno_doc_template</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 03:47:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d659f5ee1b610cd408dc64606e4bcbc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>undefined</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_update_name>x_buno_doc_template_d659f5ee1b610cd408dc64606e4bcbc7</sys_update_name>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 03:47:38</sys_updated_on>
+        <table/>
+        <template_owner/>
+    </x_buno_doc_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Builder">c0538f36dbc9001033995886dc96195e</application>
+        <file_path/>
+        <instance_id>c92022e06f4ad1c0d54da9cc5d3ee4ef</instance_id>
+        <instance_name>maerskdrillingdev</instance_name>
+        <name>x_buno_doc_template_d659f5ee1b610cd408dc64606e4bcbc7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_buno_doc_template"><x_buno_doc_template action="INSERT_OR_UPDATE"><active>true</active><condition/><custom_headers_and_footers>false</custom_headers_and_footers><document_type>document</document_type><file_name/><file_type>word</file_type><footer_first_page/><footer_second_page/><header_first_page/><header_logo/><header_second_page/><image_alignment>0</image_alignment><language>english</language><pdf_footer/><short_description>undefined</short_description><sys_class_name>x_buno_doc_template</sys_class_name><sys_created_by>MLA291</sys_created_by><sys_created_on>2019-12-09 03:47:38</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>d659f5ee1b610cd408dc64606e4bcbc7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>undefined</sys_name><sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope><sys_update_name>x_buno_doc_template_d659f5ee1b610cd408dc64606e4bcbc7</sys_update_name><sys_updated_by>MLA291</sys_updated_by><sys_updated_on>2019-12-09 03:47:38</sys_updated_on><table/><template_owner/></x_buno_doc_template></record_update>]]></payload>
+        <payload_hash>-1135380168</payload_hash>
+        <record_name>undefined</record_name>
+        <reverted_from/>
+        <source>751951cd1b2d40d408dc64606e4bcbe2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 03:47:38</sys_created_on>
+        <sys_id>1e5939ee1b610cd408dc64606e4bcb51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ee8c50c110000001</sys_recorded_at>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 03:47:38</sys_updated_on>
+        <type>Template</type>
+        <update_guid>d659f5eecc610cd4cee9d67c1d663ec8</update_guid>
+        <update_guid_history>d659f5eecc610cd4cee9d67c1d663ec8:-1135380168</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 09-12-2019 04:48:55">d9a971221ba10cd408dc64606e4bcb69</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 03:48:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="x_buno_doc_template">x_buno_doc_template</sys_db_object>
+        <sys_id>1e43ea4964954ddc881fd790b0827819</sys_id>
+        <sys_metadata>d659f5ee1b610cd408dc64606e4bcbc7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>undefined</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_scope_delete display_value="">25f41efe0f984d6895ad3fb4d47fd1c9</sys_scope_delete>
+        <sys_update_name>x_buno_doc_template_d659f5ee1b610cd408dc64606e4bcbc7</sys_update_name>
+        <sys_update_version display_value="x_buno_doc_template_d659f5ee1b610cd408dc64606e4bcbc7">1e5939ee1b610cd408dc64606e4bcb51</sys_update_version>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 03:48:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_buno_doc_paragraph">
+    <x_buno_doc_paragraph action="DELETE">
+        <active>true</active>
+        <condition/>
+        <custom_html>false</custom_html>
+        <custom_numbering>false</custom_numbering>
+        <html_body><![CDATA[<p>If you are a citizen of a country for whose citizens a residency or work permit is required for Denmark, it is a condition that you apply for and obtain any such permit prior to the commencement of your employment. If such permit is not obtained well in advance of the commencement date of your employment, the commencement date of your employment will be postponed and the terms of this contract will be suspended until the work permit has been granted. Further, if such permit ceases to be valid during your employment, this contract of employment will simultaneously terminate. In both events, neither you nor the Company will have any claim against the other.</p>]]></html_body>
+        <order>1</order>
+        <section display_value="Work and Residence Permit">a65af1621ba10cd408dc64606e4bcb3f</section>
+        <short_description>par - Work and Residence Permit</short_description>
+        <sys_class_name>x_buno_doc_paragraph</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:16:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>96ff7d6a1ba10cd408dc64606e4bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par - Work and Residence Permit</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_update_name>x_buno_doc_paragraph_96ff7d6a1ba10cd408dc64606e4bcb0f</sys_update_name>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:16:34</sys_updated_on>
+        <table>sn_hr_core_hr_contract_48e</table>
+    </x_buno_doc_paragraph>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Builder">c0538f36dbc9001033995886dc96195e</application>
+        <file_path/>
+        <instance_id>c92022e06f4ad1c0d54da9cc5d3ee4ef</instance_id>
+        <instance_name>maerskdrillingdev</instance_name>
+        <name>x_buno_doc_paragraph_96ff7d6a1ba10cd408dc64606e4bcb0f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_buno_doc_paragraph"&gt;&lt;x_buno_doc_paragraph action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;condition/&gt;&lt;custom_html&gt;false&lt;/custom_html&gt;&lt;custom_numbering&gt;false&lt;/custom_numbering&gt;&lt;html_body&gt;&lt;![CDATA[&lt;p&gt;If you are a citizen of a country for whose citizens a residency or work permit is required for Denmark, it is a condition that you apply for and obtain any such permit prior to the commencement of your employment. If such permit is not obtained well in advance of the commencement date of your employment, the commencement date of your employment will be postponed and the terms of this contract will be suspended until the work permit has been granted. Further, if such permit ceases to be valid during your employment, this contract of employment will simultaneously terminate. In both events, neither you nor the Company will have any claim against the other.&lt;/p&gt;]]&gt;&lt;/html_body&gt;&lt;order&gt;1&lt;/order&gt;&lt;section display_value="Work and Residence Permit"&gt;a65af1621ba10cd408dc64606e4bcb3f&lt;/section&gt;&lt;short_description&gt;par - Work and Residence Permit&lt;/short_description&gt;&lt;sys_class_name&gt;x_buno_doc_paragraph&lt;/sys_class_name&gt;&lt;sys_created_by&gt;MLA291&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-09 04:16:34&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;96ff7d6a1ba10cd408dc64606e4bcb0f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;par - Work and Residence Permit&lt;/sys_name&gt;&lt;sys_package display_value="Document Builder" source="x_buno_doc"&gt;c0538f36dbc9001033995886dc96195e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Document Builder"&gt;c0538f36dbc9001033995886dc96195e&lt;/sys_scope&gt;&lt;sys_update_name&gt;x_buno_doc_paragraph_96ff7d6a1ba10cd408dc64606e4bcb0f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;MLA291&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-09 04:16:34&lt;/sys_updated_on&gt;&lt;table&gt;sn_hr_core_hr_contract_48e&lt;/table&gt;&lt;/x_buno_doc_paragraph&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1197046641</payload_hash>
+        <record_name>par - Work and Residence Permit</record_name>
+        <reverted_from/>
+        <source>751951cd1b2d40d408dc64606e4bcbe2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:16:34</sys_created_on>
+        <sys_id>5aff7d6a1ba10cd408dc64606e4bcb10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ee8df8b4d0000001</sys_recorded_at>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:16:34</sys_updated_on>
+        <type>Paragraph</type>
+        <update_guid>52ff7d6a9ba10cd487aec65c73866210</update_guid>
+        <update_guid_history>52ff7d6a9ba10cd487aec65c73866210:1197046641</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 09-12-2019 05:19:34">1aa08eaa1ba10cd408dc64606e4bcbc6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:19:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="x_buno_doc_paragraph">x_buno_doc_paragraph</sys_db_object>
+        <sys_id>07361d689d6d449c86e8a483ea52e689</sys_id>
+        <sys_metadata>96ff7d6a1ba10cd408dc64606e4bcb0f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par - Work and Residence Permit</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_scope_delete display_value="">25f41efe0f984d6895ad3fb4d47fd1c9</sys_scope_delete>
+        <sys_update_name>x_buno_doc_paragraph_96ff7d6a1ba10cd408dc64606e4bcb0f</sys_update_name>
+        <sys_update_version display_value="x_buno_doc_paragraph_96ff7d6a1ba10cd408dc64606e4bcb0f">5aff7d6a1ba10cd408dc64606e4bcb10</sys_update_version>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:19:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

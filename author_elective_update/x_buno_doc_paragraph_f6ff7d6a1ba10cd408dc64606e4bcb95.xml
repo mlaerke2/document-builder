@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_buno_doc_paragraph">
+    <x_buno_doc_paragraph action="DELETE">
+        <active>true</active>
+        <condition table="sn_hr_core_hr_contract_48e">u_job_level=6^EQ<item display_value="6" endquery="false" field="u_job_level" goto="false" newquery="false" operator="=" or="false" value="6"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_html>false</custom_html>
+        <custom_numbering>false</custom_numbering>
+        <html_body><![CDATA[<p>The Company puts a car at your disposal, which will be leased through an external vendor. You are eligible to a monthly lease incl. fuel of DKK 7,361 excl. VAT. Please refer to the one pager on company cars for more information. In case of termination or garden leave, the Company reserves the right to demand that the car is to be returned, and replaced by cash compensation. As an alternative to the company car, you can choose to be paid a transportation allowance of DKK 8,166.66 (gross) per month which will be paid out with your monthly salary. The allowance will cover both private and company related transportation costs. Please note that no pension contribution is paid on the transportation allowance.</p>]]></html_body>
+        <order>10</order>
+        <section display_value="Remuneration">1e5af1621ba10cd408dc64606e4bcb09</section>
+        <short_description>par - Remuneration 10</short_description>
+        <sys_class_name>x_buno_doc_paragraph</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:16:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f6ff7d6a1ba10cd408dc64606e4bcb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par - Remuneration 10</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_update_name>x_buno_doc_paragraph_f6ff7d6a1ba10cd408dc64606e4bcb95</sys_update_name>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:16:36</sys_updated_on>
+        <table>sn_hr_core_hr_contract_48e</table>
+    </x_buno_doc_paragraph>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Builder">c0538f36dbc9001033995886dc96195e</application>
+        <file_path/>
+        <instance_id>c92022e06f4ad1c0d54da9cc5d3ee4ef</instance_id>
+        <instance_name>maerskdrillingdev</instance_name>
+        <name>x_buno_doc_paragraph_f6ff7d6a1ba10cd408dc64606e4bcb95</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_buno_doc_paragraph"&gt;&lt;x_buno_doc_paragraph action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;condition table="sn_hr_core_hr_contract_48e"&gt;u_job_level=6^EQ&lt;item display_value="6" endquery="false" field="u_job_level" goto="false" newquery="false" operator="=" or="false" value="6"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;custom_html&gt;false&lt;/custom_html&gt;&lt;custom_numbering&gt;false&lt;/custom_numbering&gt;&lt;html_body&gt;&lt;![CDATA[&lt;p&gt;The Company puts a car at your disposal, which will be leased through an external vendor. You are eligible to a monthly lease incl. fuel of DKK 7,361 excl. VAT. Please refer to the one pager on company cars for more information. In case of termination or garden leave, the Company reserves the right to demand that the car is to be returned, and replaced by cash compensation. As an alternative to the company car, you can choose to be paid a transportation allowance of DKK 8,166.66 (gross) per month which will be paid out with your monthly salary. The allowance will cover both private and company related transportation costs. Please note that no pension contribution is paid on the transportation allowance.&lt;/p&gt;]]&gt;&lt;/html_body&gt;&lt;order&gt;10&lt;/order&gt;&lt;section display_value="Remuneration"&gt;1e5af1621ba10cd408dc64606e4bcb09&lt;/section&gt;&lt;short_description&gt;par - Remuneration 10&lt;/short_description&gt;&lt;sys_class_name&gt;x_buno_doc_paragraph&lt;/sys_class_name&gt;&lt;sys_created_by&gt;MLA291&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-09 04:16:36&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;f6ff7d6a1ba10cd408dc64606e4bcb95&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;par - Remuneration 10&lt;/sys_name&gt;&lt;sys_package display_value="Document Builder" source="x_buno_doc"&gt;c0538f36dbc9001033995886dc96195e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Document Builder"&gt;c0538f36dbc9001033995886dc96195e&lt;/sys_scope&gt;&lt;sys_update_name&gt;x_buno_doc_paragraph_f6ff7d6a1ba10cd408dc64606e4bcb95&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;MLA291&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-09 04:16:36&lt;/sys_updated_on&gt;&lt;table&gt;sn_hr_core_hr_contract_48e&lt;/table&gt;&lt;/x_buno_doc_paragraph&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1261276214</payload_hash>
+        <record_name>par - Remuneration 10</record_name>
+        <reverted_from/>
+        <source>751951cd1b2d40d408dc64606e4bcbe2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:16:36</sys_created_on>
+        <sys_id>baff7d6a1ba10cd408dc64606e4bcb96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ee8df91150000001</sys_recorded_at>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:16:36</sys_updated_on>
+        <type>Paragraph</type>
+        <update_guid>b2ff7d6ad4a10cd405772d10f3277896</update_guid>
+        <update_guid_history>b2ff7d6ad4a10cd405772d10f3277896:1261276214</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 09-12-2019 05:19:37">7ea0ceaa1ba10cd408dc64606e4bcbaf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MLA291</sys_created_by>
+        <sys_created_on>2019-12-09 04:19:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="x_buno_doc_paragraph">x_buno_doc_paragraph</sys_db_object>
+        <sys_id>220cd1c6044d48fc9285c1445daab010</sys_id>
+        <sys_metadata>f6ff7d6a1ba10cd408dc64606e4bcb95</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par - Remuneration 10</sys_name>
+        <sys_package display_value="Document Builder" source="x_buno_doc">c0538f36dbc9001033995886dc96195e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Document Builder">c0538f36dbc9001033995886dc96195e</sys_scope>
+        <sys_scope_delete display_value="">25f41efe0f984d6895ad3fb4d47fd1c9</sys_scope_delete>
+        <sys_update_name>x_buno_doc_paragraph_f6ff7d6a1ba10cd408dc64606e4bcb95</sys_update_name>
+        <sys_update_version display_value="x_buno_doc_paragraph_f6ff7d6a1ba10cd408dc64606e4bcb95">baff7d6a1ba10cd408dc64606e4bcb96</sys_update_version>
+        <sys_updated_by>MLA291</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:19:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
